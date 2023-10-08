@@ -1,3 +1,6 @@
+ ## Link to the live website 
+  https://benteodor.github.io/Loader-Animation/
+ ## Description 
 I built a loader animation where I have used new notions like 
 "@keyframes move {
   0% {
@@ -9,3 +12,5 @@ I built a loader animation where I have used new notions like
     background-color: olive;
   }
 }"
+ ## Link to the course 
+ https://www.udemy.com/course/html-and-css-bootcamp/
